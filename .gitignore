@@ -1,0 +1,19 @@
+node_modules/
+*/node_modules/
+**/dist/
+**/.vite/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.DS_Store
+.vscode/settings.json
+*.pem
+*.key
+*secret*.json
+
+# Private local JSON data - includes users, sessions, proof evidence, audit logs
+backend/data/
+**/data/veridraw*.json
+*.tmp
