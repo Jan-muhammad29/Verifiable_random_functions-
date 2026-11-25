@@ -1,4 +1,4 @@
-# VeriDraw - ECVRF raffle (JSON storage edition)
+# VeriDraw - ECVRF raffle 
 
 CS-3002 Information Security, Topic 15. This is a **single-process, JSON-file-backed** React + Express learning application. No SQL Server, SSMS, Docker, PostgreSQL, database account, or SQL migration is required. The cryptographic primitive is RFC 9381 `ECVRF-EDWARDS25519-SHA512-TAI` via a published JS implementation.
 
